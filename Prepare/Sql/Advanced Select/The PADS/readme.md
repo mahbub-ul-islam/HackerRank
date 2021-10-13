@@ -2,8 +2,6 @@
 
 &nbsp;
 
-![](the-pads-English-1.pngg)
+![](the-pads-English-1.png)
 
-&nbsp;
-
-![](the-pads-English-2.pngg)
+![](the-pads-English-2.png)
